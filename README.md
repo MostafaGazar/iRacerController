@@ -1,7 +1,6 @@
 iRacerController
 ================
-
-Just a demo I worked on for a couple hours, drag/drop, add to flow, Bluetooth, and i-racer (https://www.sparkfun.com/products/11162)
+A simple demo done in a couple hours, on how to send i-racer (https://www.sparkfun.com/products/11162) commands (http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Robotics/DaguCarCommands.pdf) via bluetooth from an Android device to define pre set track for i-racer car.
 
 Screenshots
 ------------
