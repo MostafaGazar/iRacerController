@@ -1,0 +1,9 @@
+<resources>
+
+    <dimen name="command_item_child_width">64dp</dimen>
+    <dimen name="command_item_child_height">36dp</dimen>
+
+    <dimen name="command_item_parent_width">72dp</dimen>
+    <dimen name="command_item_parent_height">52dp</dimen>
+
+</resources>

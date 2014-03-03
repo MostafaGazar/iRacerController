@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iRacerController</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_deploy">Deploy</string>
+
+    <string name="direction_forward">Forward</string>
+    <string name="direction_backward">Backward</string>
+    <string name="direction_left">Left</string>
+    <string name="direction_right">Right</string>
+
+</resources>

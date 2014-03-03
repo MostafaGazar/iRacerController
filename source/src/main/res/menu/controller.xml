@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.meg7.controller.ui.ControllerActivity">
+
+    <item
+        android:id="@+id/action_clear"
+        android:title="@string/action_clear"
+        android:showAsAction="withText|always" />
+
+    <item
+        android:id="@+id/action_deploy"
+        android:title="@string/action_deploy"
+        android:showAsAction="withText|ifRoom" />
+</menu>
